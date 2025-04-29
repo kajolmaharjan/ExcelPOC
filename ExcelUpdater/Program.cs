@@ -13,8 +13,6 @@ string field2 = Console.ReadLine();
 Console.WriteLine("Enter value for Field 3:");
 string field3 = Console.ReadLine();
 
-//Console.WriteLine("Enter the path to the Excel file:");
-//string excelFilePath = "D:\\Practice\\Practice\\Test\\Excel-POC.xlsx";
 
 // Get the current directory of the application
 string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
